@@ -9,7 +9,7 @@
 <body>
     <h1>
         <?php 
-        echo "Hello World!";
+        echo "Hello World! \u{1F30E}";
         ?>
     </h1>
     <p>
