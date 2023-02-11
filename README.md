@@ -5,6 +5,7 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
 - 🌠 What is PHP?
-<p>PHP (a recursive acronym for PHP: Hypertext Preprocessor) is a backend programing language that also works in web development, and can be embedded in HTML.</p>
+<p>  PHP (a recursive acronym for PHP: Hypertext Preprocessor) is a backend programing language that also works in web development, and can be embedded in HTML.</p>
 
-- 🔭 
+- 🌎 which version these exercises are from?
+<p>  They're from the latest version of PHP, the PHP8.2.1.</p>
