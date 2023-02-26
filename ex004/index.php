@@ -13,7 +13,7 @@
         // 0b = binary
         // 0 octal
         $num = 0x1A;
-        echo "The number is $num";
+        echo "is the number and its primitive data type " . var_dump($num);
     ?>
 </body>
 </html>
